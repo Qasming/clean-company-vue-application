@@ -1,0 +1,1 @@
+export default class UnathorizedError extends Error {}
